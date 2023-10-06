@@ -1,0 +1,26 @@
+@media (max-width:320px) {
+    .info{
+        margin:0 auto !important;
+        padding: 0 !important;
+    }
+    
+}
+.info{
+display: flex;
+background-color: aqua !important;
+
+}
+
+div.info {
+background-color: blueviolet; 
+margin: 25px;
+padding: 22px;
+font-size: 25px;
+}
+
+h1{
+
+    margin: 25px;
+    padding: 22px;
+    border: 5px solid green;
+}
